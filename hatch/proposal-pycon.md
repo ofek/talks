@@ -26,7 +26,7 @@
 
 ## Title
 
-Hatch: The final tool
+Hatch: The only tool you need
 
 ## Category
 
@@ -98,8 +98,9 @@ Attendees will learn how to manage the entire lifecycle of a project with Hatch 
    - bumping
 7. Publishing (1 minute)
 8. Future (2 minutes)
-   - lock files
    - install script
+   - [extension modules](https://github.com/ofek/extensionlib)
+   - [lock files](https://discuss.python.org/t/17690)
 
 
 ## Additional Notes
