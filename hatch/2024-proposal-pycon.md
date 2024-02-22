@@ -4,7 +4,7 @@
 
 | Proposer                     | Year | Outcome  | Video |
 | ---------------------------- | ---- | -------- | ----- |
-| [Ofek Lev](https://ofek.dev) | 2023 | accepted | TBA   |
+| [Ofek Lev](https://ofek.dev) | 2024 | accepted | TBA   |
 
 </div>
 
