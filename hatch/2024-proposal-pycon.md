@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/pypa/hatch/master/docs/assets/images/logo.svg" alt="Hatch logo" width="500" role="img">
 
-| Proposer                     | Year | Outcome  | Video |
-| ---------------------------- | ---- | -------- | ----- |
-| [Ofek Lev](https://ofek.dev) | 2024 | accepted | TBA   |
+| Proposer                     | Year | Outcome  | Video                                       |
+| ---------------------------- | ---- | -------- | ------------------------------------------- |
+| [Ofek Lev](https://ofek.dev) | 2024 | accepted | https://www.youtube.com/watch?v=eQqRVig9RIE |
 
 </div>
 
