@@ -1,8 +1,8 @@
 <div align="center">
 
-| Proposer                     | Year | Outcome | Video |
-| ---------------------------- | ---- | ------- | ----- |
-| [Ofek Lev](https://ofek.dev) | 2025 | pending | N/A   |
+| Proposer                     | Year | Outcome  | Video |
+| ---------------------------- | ---- | -------- | ----- |
+| [Ofek Lev](https://ofek.dev) | 2025 | rejected | N/A   |
 
 </div>
 
